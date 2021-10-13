@@ -9,5 +9,9 @@
  - Wondering if theme change will swap colors on SVG elements as well... Will add logo to see.
  - May change colors on theme switch from standard b&w seems a little boring.
  - Added my gallery html and css, then removed them because i decided it would be easier to just add the code to the page i started... Duh.
+ - Added the gallery images folder to workspace.
  - Gallery is in and working mostly, a few css changes were required as it was messing with the dark mode.
  - Thinking i might test the svg theory by making it a button for the dark theme somehow.
+ - SVG works as a button sort of so far, doesn't really give a good indication to click it after removing the button styling...
+ - Going to try and figure out away to make the svg elements change on click to match a day night color scheme.
+ 

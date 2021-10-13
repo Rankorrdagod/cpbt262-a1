@@ -1,3 +1,4 @@
+/*light and dark theme*/
 :root {
     --background-color: rgb(240, 240, 240);
     --text-color: #000;
@@ -13,17 +14,28 @@
   a:hover {
     color: black;
   }
+  /*style css*/
   body {
       display: flex;
       flex-direction: column;
       text-align: center;
       align-items: center;
+      /*js atrributes*/
     background-color: var(--background-color);
     color: var(--text-color);
   }
+  /*Dark theme button*/
   button {
-      width: 100px;
+      width: 200px;
+      border:none;
+      background-color:transparent;
+      outline:none;
+      
   }
+  button:hover{
+      fill:red;
+  }
+  /*Gallery Layout and style*/
   h1 {font-family: 'Lexend Zetta', sans-serif;
     color: #78967C;
   }
