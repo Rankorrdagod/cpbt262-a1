@@ -27,13 +27,12 @@
   /*Dark theme button*/
   button {
       width: 200px;
-      border:none;
-      background-color:transparent;
-      outline:none;
+     
+      
       
   }
-  button:hover{
-      fill:red;
+  .active{
+      color:red;
   }
   /*Gallery Layout and style*/
   h1 {font-family: 'Lexend Zetta', sans-serif;

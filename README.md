@@ -14,4 +14,5 @@
  - Thinking i might test the svg theory by making it a button for the dark theme somehow.
  - SVG works as a button sort of so far, doesn't really give a good indication to click it after removing the button styling...
  - Going to try and figure out away to make the svg elements change on click to match a day night color scheme.
+ - Talked with Tony decided button was the way to go, svg didnt really make sense, but made it part of the button for fun.
  
